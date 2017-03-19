@@ -1,0 +1,16 @@
+required packages:
+
+systemd
+hostapd
+haveged (optional)
+dnsmasq
+
+
+daemons:
+
+systemd-networkd
+systemd-resolved
+iptables
+dnsmasq
+haveged
+hostapd
