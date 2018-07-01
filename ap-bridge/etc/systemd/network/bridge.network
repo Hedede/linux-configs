@@ -1,0 +1,9 @@
+[Match]
+Name=brew1
+
+[Link]
+MACAddress=10:7b:44:50:ea:41
+
+[Network]
+DHCP=ipv4
+IPForward=yes
